@@ -94,7 +94,24 @@
       <li>Book reading</li>
       <li>Watching TV series & <a href="https://www.netflix.com/">Netflix</a></li>
     </ol>
+    <hr> <br>
+<h2>My contact Information</h2>
+      <strong>Address:-</strong>Manhar Road,Choti-Quazipura <br>Darbhanga,Bihar
+      <br><strong>PIN Code-</strong>846004
+      <br><br><strong>Mobile No:- 7019444671 <br>Email:-kashif.imteyaz78604@gmail.com</strong>
+    <br><br>
     <hr>
-    <h3><a href="https://github.com/kashif7112030/cv/blob/master/contact%20details.html">Contact Me</a>
+    <form action="mailto:kashif.imteyaz78604@gmail.com" method="post" enctype="text/plain">
+      <label>Name</label>
+      <input type="text" name="yourname" value="">
+      <br><br>
+      <label>Email</label>
+      <input type="email" name="youremail" value="">
+      <br><br>
+      <label>Your Message</label>
+      <textarea name="yourMessage" rows="3" cols="30"></textarea>
+      <br><br>
+      <input type="submit" name="">
+    </form>
 
   </body>
