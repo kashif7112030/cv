@@ -13,7 +13,7 @@ CV
     </table>
     <hr size="01" noshadow color="black">
     <h3>Educational Details</h3>
-    <table border="5">
+    <table>
       <thead>
         <th>year</th>
         <th>courses</th>
