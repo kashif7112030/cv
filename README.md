@@ -95,6 +95,6 @@
       <li>Watching TV series & <a href="https://www.netflix.com/">Netflix</a></li>
     </ol>
     <hr>
-    <h3><a href="C:\Users\xavier\Desktop\web development\html- personal site\contact details.html">Contact Info</a></h3>
+    <h3><a href="https://github.com/kashif7112030/cv/blob/master/contact%20details.html">Contact Me</a>
 
   </body>
