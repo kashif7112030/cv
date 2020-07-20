@@ -1,4 +1,3 @@
-CV
 <title>🎔kashif's curriculum vitae</title>
   <body>
     <table cellspacing="20">
